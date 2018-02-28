@@ -1,5 +1,3 @@
-Hello Chicago!
+Hello LA!
 
 first thing is got init
-
-add some more text
