@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Hello LA!!!!
-=======
-# Hello World!
->>>>>>> conflict
+# Hello World!!!!
 
 first thing is `got init`
 
